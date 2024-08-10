@@ -1,2 +1,2 @@
 # MIT_Repo1
-Repositorio para curso Transformación Digital y sus Aplicaciones Prácticas
+Repositorio para curso Transformación Digital, Tecnologías y sus Aplicaciones Prácticas
